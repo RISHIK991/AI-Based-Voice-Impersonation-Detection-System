@@ -75,3 +75,15 @@ Shows model performance on test data:
 
 👉 [VoiceDetection_Demo.ipynb](VoiceDetection_Demo.ipynb)  
 This notebook contains all model steps, training, and evaluation.
+
+
+📈 Final Test Accuracy
+
+🎯 Achieved over 96.67% accuracy on test data
+
+Author
+Rishik Reddy Chityala
+https://github.com/RISHIK991
+
+
+
