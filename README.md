@@ -57,3 +57,21 @@ A hybrid architecture combining:
 pip install -r requirements.txt
 
 python Voice_pro.py
+
+## 📊 Model Performance
+
+### ✅ Accuracy Over Epochs
+![Accuracy](Accuracy_plot.png)
+
+### 🎧 Sample Audio Spectrogram (RGB)
+This is an example of how audio is converted into RGB spectrograms:
+![Spectrogram](Audio_Spectrogram.png)
+
+### 🧠 Confusion Matrix (Test Results)
+Shows model performance on test data:
+![Confusion Matrix](Confusion_Matrix.png)
+
+## 📘 Jupyter Notebook Demo
+
+👉 [VoiceDetection_Demo.ipynb](VoiceDetection_Demo.ipynb)  
+This notebook contains all model steps, training, and evaluation.
